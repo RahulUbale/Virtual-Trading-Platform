@@ -80,13 +80,6 @@ We will be providing alert wish-list to users to track stocks and get notified o
  ### https://github.com/RahulUbale/UserMicroservice
  ### https://github.com/RahulUbale/TradingPlatform
 
-# Contribution 
-Rahul Suresh Ubale
-Sharayu Ubale
-Swapnali Ubale
-Shailesh Balwant Patil
-Sameer Ghunakikar
-
 
 
 
